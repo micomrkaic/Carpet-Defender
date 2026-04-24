@@ -1,4 +1,4 @@
-# The Housekeeper
+# Carpet Defender
 ### A Space Invaders variant — C17 + SDL2, identical native and WASM builds
 
 ---
